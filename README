@@ -1,0 +1,85 @@
+---Description---
+
+Based on Olalla's Catipillator v1.1 track system.
+
+Tracks are 150% the width of Olalla's originals
+Tracks are 95% the length of Olalla's originals
+The sprockets are 150% the width of Olalla's originals (re-designed)
+The sprockets are 47.5% the diameter of Olalla's originals (re-designed)
+Instructions
+
+To make one 100mm wheel base track you need:
+
+19 - track v2
+2 - sprocket v2
+2 - 608 sprocket v2
+
+I used Bamboo Cooking Skewers as hinge pins. 
+
+Version 1
+
+Unless you plan on making the turtle shell later I recommend using thingiverse.com/thing:10925 as it is the culmination of the lessons learnt here.
+
+100mm wheelbase tank chassis based around Skimbals High Power Turtle Racers drive train. And my Koopa Shell Tank thingiverse.com/thing:10771
+
+This is just the test jigs I made to test the track system for my Koopa Shell tank. I designed them to be a stand alone chassis system as to not be a waste.
+
+Includes a modified version of Skimbals transmission. (Not needed unless you are using a 35mm diameter motor)
+Larger motor mount.
+Motor rotated to allow larger motor without hitting the track.
+
+The pictures show a few generations. The stl files create the version pictured in the renderings. (motors are both in the center) I have printed them, I just haven't assembled them yet.
+
+Uses thingiverse.com/thing:10923 tracks
+Print:
+
+1 - Frame_chassis.stl
+2 - Transmission_xl.stl
+1 - Transmission_brace.stl
+2 - Axle_brackets.stl
+1 - Contents of Gears.zip (Skimbals original Gears)
+
+Version 2
+
+100mm wheelbase tank chassis and transmission system loosely based on Skimbals High power Turtle Racers drive train. And my Koopa Shell Tank thingiverse.com/thing:10771
+
+This is the culmination of what I have learnt designing:
+thingiverse.com/thing:10924
+thingiverse.com/thing:10771
+
+Motors are now inside the tracks for better balance.
+The transmissions are now an integral part of the chassis.
+Larger Motor mount.
+
+Uses thingiverse.com/thing:10923 tracks
+
+I have marked it as a work in progress because it has not been tested but it should be finished as it stands now.
+
+This is not compatible with the previous versions.
+
+Parts Marked MB are split for Makerbot owners
+
+
+Updates
+Aug 23/11
+Replaced bad transmission_chassis_V2_MB.stl
+Replaced Frame_chassis_V2_MB.stl
+
+Aug 22/11
+Added Makerbot parts.
+Frame and Transmission split in two parts and will require gluing. Print:
+
+1 - Frame_chassis_v2.stl
+2 - Transmission_chassis_v2.stl
+2 - Contents of Gears.zip (Skimbals original Gears)
+
+NEW
+Makerbot parts
+
+Print:
+
+2 - Frame_chassis_v2_MB.stl
+2 - Transmission_chassis_v2_MB.stl
+2 - Contents of Gears.zip (Skimbals original Gears)
+
+version 3 and 4 were never released but have been printed and do fit together.
